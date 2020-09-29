@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass\\components\\_header.scss"],"names":[],"mappings":"AAAA,KACE,sBAGF,GACE","file":"src.322eb1cb.css","sourceRoot":"..\\src","sourcesContent":["body {\r\n  background-color: teal;\r\n}\r\n\r\nh2 {\r\n  color: red;\r\n}\r\n"]}

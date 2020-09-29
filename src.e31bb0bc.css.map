@@ -1,1 +1,1 @@
-{"version":3,"sources":["sass\\components\\_header.scss"],"names":[],"mappings":"AAAA;EACE","file":"src.e31bb0bc.css","sourceRoot":"..\\src","sourcesContent":["body {\r\n  background-color: teal;\r\n}\r\n"]}
+{"version":3,"sources":["sass\\components\\_header.scss"],"names":[],"mappings":"AAAA;EACE;;;AAGF;EACE","file":"src.e31bb0bc.css","sourceRoot":"..\\src","sourcesContent":["body {\r\n  background-color: teal;\r\n}\r\n\r\nh2 {\r\n  color: red;\r\n}\r\n"]}
